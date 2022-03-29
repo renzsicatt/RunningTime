@@ -1,0 +1,7 @@
+C:\Users\Longbig\source\repos\2.RunningTime\2.RunningTime\bin\Debug\2.RunningTime.exe.config
+C:\Users\Longbig\source\repos\2.RunningTime\2.RunningTime\bin\Debug\2.RunningTime.exe
+C:\Users\Longbig\source\repos\2.RunningTime\2.RunningTime\bin\Debug\2.RunningTime.pdb
+C:\Users\Longbig\source\repos\2.RunningTime\2.RunningTime\obj\Debug\2.RunningTime.csproj.AssemblyReference.cache
+C:\Users\Longbig\source\repos\2.RunningTime\2.RunningTime\obj\Debug\2.RunningTime.csproj.CoreCompileInputs.cache
+C:\Users\Longbig\source\repos\2.RunningTime\2.RunningTime\obj\Debug\2.RunningTime.exe
+C:\Users\Longbig\source\repos\2.RunningTime\2.RunningTime\obj\Debug\2.RunningTime.pdb
